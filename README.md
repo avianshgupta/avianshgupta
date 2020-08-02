@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Aviansh Gupta | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][mailto](mailto:guptaaviansh01@gmail.com)
+[<img align="left" alt="Aviansh Gupta | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Aviansh Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aviansh Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aviansh Gupta | CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/codechef.svg" />][codechef]
@@ -30,3 +30,4 @@
 [codechef]: https://www.codechef.com/users/guptaaviansh
 [codeforces]: https://codeforces.com/profile/guptaaviansh
 [leetcode]: https://leetcode.com/guptaaviansh/
+[gmail]: mailto:guptaaviansh01@gmail.com
