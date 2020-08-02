@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Aviansh Gupta | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Aviansh Gupta | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][mailto](mailto:guptaaviansh01@gmail.com)
 [<img align="left" alt="Aviansh Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aviansh Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aviansh Gupta | CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/codechef.svg" />][codechef]
@@ -25,7 +25,6 @@
 
 <img align="left" alt="Aviansh's Github Status" src="https://github-readme-stats.vercel.app/api?username=avianshgupta&show_icons=true&hide_border=true" />
 
-[gmail]: guptaaviansh01@gmail.com
 [twitter]: https://twitter.com/GuptaAviansh
 [linkedin]: https://www.linkedin.com/in/aviansh-gupta-aab48b1a5/
 [codechef]: https://www.codechef.com/users/guptaaviansh
