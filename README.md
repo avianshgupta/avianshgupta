@@ -13,10 +13,10 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudiocode.svg" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/c.svg" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/45178946/89153693-046e7000-d583-11ea-9d05-9b8664219962.jpg" />
+<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/45178946/89153698-06d0ca00-d583-11ea-8595-ecd180af7c60.png" />
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/45178946/89153703-089a8d80-d583-11ea-84fb-b0cd3e74dd22.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />
 
