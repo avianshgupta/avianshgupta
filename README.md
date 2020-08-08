@@ -23,7 +23,7 @@
 <br />
 <br />
 
-<img align="left" alt="Aviansh's Github Status" src="https://github-readme-stats.vercel.app/api?username=avianshgupta&show_icons=true&hide_border=true" />
+
 
 [twitter]: https://twitter.com/GuptaAviansh
 [linkedin]: https://www.linkedin.com/in/aviansh-gupta-aab48b1a5/
